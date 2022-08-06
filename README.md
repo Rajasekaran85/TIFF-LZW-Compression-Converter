@@ -4,7 +4,7 @@ TIFF LZW Compression Converter
 
 ## Description
 
-* Convert the No Compression (raw) Images to LZW compression
+* Convert the "No Compressio"n (raw) Images to "LZW" compression
 * pillow library used
 * wand (imagemagick) library used
 * Images type: TIF
