@@ -1,4 +1,4 @@
-# Project Title
+# Application Title
 
 TIFF LZW Compression Converter
 
